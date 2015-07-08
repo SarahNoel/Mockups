@@ -1,0 +1,13 @@
+#square{
+  margin: auto;
+  border:3px black solid;
+  width: 500px;
+  height: 500px;
+  background-color: white;
+
+}
+
+h3{color: magenta;
+  text-align: center;
+
+}

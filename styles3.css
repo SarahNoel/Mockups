@@ -1,0 +1,40 @@
+body{
+  background-color: blue;
+}
+
+h2{
+  color:white
+}
+
+.students{
+   float: left;
+   margin: 0 5%;
+   width: 40%;
+   background-color: white;
+   border: black 3px solid;
+   height: 300px;
+   width: 250px;
+
+ }
+
+
+.instructors{
+  float: right;
+  margin: 0 5%;
+  width: 40%;
+  background-color: white;
+  border: black 3px solid;
+  height: 300px;
+  width: 250px;
+
+}
+
+p{
+  text-indent: 10px;
+}
+
+button{
+  display: block;
+  margin: 0 auto;
+  clear: both;
+}
