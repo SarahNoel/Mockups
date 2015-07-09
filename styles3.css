@@ -1,5 +1,6 @@
 body{
   background-color: blue;
+  font-family: 'Short Stack', cursive;
 }
 
 h2{
@@ -7,6 +8,7 @@ h2{
 }
 
 .students{
+  font-weight: bold;
    float: left;
    margin: 0 5%;
    width: 40%;
@@ -34,12 +36,18 @@ p{
 }
 
 button{
+  font-family: 'Short Stack', cursive;
   display: block;
-  margin: 0 auto;
   clear: both;
+  position: absolute;
+  bottom: 125px;
+  margin-left:-100px;
+  left:50%;
+
 }
 
 #all{
   width: 75%;
   margin: auto;
+  padding: 15px;
 }
