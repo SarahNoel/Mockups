@@ -10,23 +10,19 @@ header{
   word-spacing: 40px;
 }
 
-.most{
-  position: relative;
-  float: left;
-  clear: left;
-}
-
 h1{
   color:orange;
 }
-.rectangle{
-  border:4px black solid;
-  width: 400px;
-  height: 20px;
-  float: left;
-  margin: 0 2%%;
-  margin-top: 15px;
+input[type=text] {
+  border: solid;
+  width: 290px;
+  padding: 5px 0px 5px 0px;
+}
 
+label{
+  width: 60px;
+  display: inline-block;
+  color: violet;
 }
 
 .square{
