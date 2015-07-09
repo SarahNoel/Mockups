@@ -3,6 +3,13 @@ body{
   font-family: 'Short Stack', cursive;
 }
 
+header{
+  color: black;
+  border: black solid 4px;
+  text-indent: 15px;
+  word-spacing: 40px;
+}
+
 .most{
   position: relative;
   float: left;
@@ -48,4 +55,7 @@ button{
 clear position: absolute;
 background-color: orange;
 top:100%;
+border: 3px black solid;
+font-family: 'Short Stack', cursive;
+
 }
